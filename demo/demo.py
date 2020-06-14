@@ -1,6 +1,5 @@
-import math
+
 import sys
-from os import rename
 
 from PIL import Image
 
